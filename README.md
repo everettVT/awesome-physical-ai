@@ -2,11 +2,6 @@
 
 A curated list of open source projects for Physical AI — robotics, embodied intelligence, simulation, and the infrastructure that makes it work.
 
-
-# Awesome Physical AI
-
-A curated list of open source projects for Physical AI — robotics, embodied intelligence, simulation, and the infrastructure that makes it work.
-
 Curated from the stuff I actually use, star, and interest me. PRs welcome.
 
 **Legend:** ★ = in [my stars](https://github.com/everettVT?tab=stars) · unmarked = well-known projects on my to-star list
