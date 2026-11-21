@@ -243,6 +243,7 @@ Fleet management, cloud-to-edge, Physical AI platforms.
 - ★ [jslee02/awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) — ECS libraries and resources; the architecture pattern under real-time robot software.
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) — Comprehensive list of LLM/VLM-for-robotics papers with code.
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) — The classic curated list of robotics libraries and simulators.
+- [maxversace72/physical-ai](https://github.com/maxversace72/physical-ai) — Physical AI glossary, reference numbers and reading list as Markdown and CSV (CC BY 4.0).
 
 ---
 
